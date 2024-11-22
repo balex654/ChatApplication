@@ -1,0 +1,26 @@
+<div class="chats-container">
+    <div *ngIf="user">Logged in as {{ user.username }}</div>
+    <button (click)="logout()">Logout</button>
+    <button (click)="createGroupChat()">Create Group Chat</button>
+    <div class="chat" (click)="globalChatClick()">
+        Global Chat
+    </div>
+    <div class="chat" *ngFor="let groupChat of groupChats" (click)="groupChatClick(groupChat)">
+        <div class="chat-text">
+            {{ groupChat.name }}
+        </div>
+    </div>
+    <div class="chat" *ngFor="let user of users" (click)="chatClick(user)">
+        <div class="chat-text">
+            <div>
+                {{ user.username }}
+            </div>
+            <div *ngIf="user.connectionId === null">
+                Disconnected
+            </div>
+            <div *ngIf="user.connectionId !== null">
+                Conencted
+            </div>
+        </div>
+    </div>
+</div>

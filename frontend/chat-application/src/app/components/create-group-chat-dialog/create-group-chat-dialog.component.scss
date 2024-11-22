@@ -1,0 +1,25 @@
+.dialog-container {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    overflow-y: scroll;
+    height: 200px;
+}
+
+.user {
+    display: flex;
+    border-width: 3px;
+    border-style: solid;
+    border-radius: 10px;
+    padding-left: 5px;
+    padding-right: 5px;
+    height: 30px;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+}
+
+.user-selected {
+    @extend .user;
+    background-color: green;
+}

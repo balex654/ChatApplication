@@ -1,0 +1,22 @@
+<div class="chat-container">
+    <div class="chat-status-bar">
+        <label>You are talking to: {{ groupChat!.name }}</label>
+    </div>
+    <div class="message-container">
+        <div class="message" *ngFor="let message of messages">
+            {{ message.fromUsername }}: {{ message.body }}
+        </div>
+    </div>
+    <div class="inputs-container">
+        <div class="input-container">
+            <input class="input" placeholder="Message" [(ngModel)]="message"/>
+            <button
+                (click)="sendMessage()"
+                class="button">
+                Send
+            </button>
+        </div>
+        <button (click)="back()">Back</button>
+        <button (click)="logout()">Logout</button>
+    </div>
+</div>

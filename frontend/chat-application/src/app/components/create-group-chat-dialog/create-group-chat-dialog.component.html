@@ -1,0 +1,12 @@
+<div class="dialog-container">
+    <label>Choose users to add to the chat</label>
+    <button (click)="createGroup()">Create</button>
+    <input placeholder="Group Name" [(ngModel)]="groupNameInput"/>
+    <div 
+        *ngFor="let u of users" 
+        [ngClass]="{'user': !u.isSelected, 'user-selected': u.isSelected}"
+        (click)="userClick(u)">
+        {{ u.user.username }}
+    </div>
+</div>
+

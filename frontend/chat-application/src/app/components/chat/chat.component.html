@@ -1,0 +1,37 @@
+<div class="chat-container">
+    <div *ngIf="currentChatUser" class="chat-status-bar">
+        <label>You are talking to: {{ currentChatUser!.username }}</label>
+        <label>Status: {{ currentChatUser!.connectionId === null ? 'Disconnected' : 'Connected' }}</label>
+    </div>
+    <div class="message-container">
+        <div class="message" *ngFor="let message of messages">
+            <div *ngIf="message.fromUserId !== '' && !message.body.includes('has changed their username to')">
+                {{ message.fromUsername }}: {{ message.body }}
+            </div>
+            <div *ngIf="message.fromUserId === '' || message.body.includes('has changed their username to')">
+                {{ message.body }}
+            </div>
+        </div>
+        <div *ngIf="typing">
+            {{ currentChatUser!.username }} is typing
+        </div>
+    </div>
+    <div class="inputs-container">
+        <div class="input-container">
+            <input class="input" placeholder="Username" [(ngModel)]="usernameInputText"/>
+            <button (click)="setUsername()" class="button">Set</button>
+        </div>
+        <div class="input-container">
+            <input class="input" placeholder="Message" [(ngModel)]="message" (input)="messageInputChange()"/>
+            <button 
+                (click)="sendMessage()" 
+                class="button" 
+                [disabled]="username === undefined || message === undefined || message === ''"
+            >Send</button>
+        </div>
+        <button (click)="back()">Back</button>
+        <button (click)="logout()">
+            Logout
+        </button>
+    </div>
+</div> 
