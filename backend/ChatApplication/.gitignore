@@ -1,0 +1,20 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# ASP.NET Core
+bin/
+obj/
+
+# Logs
+*.log
+
+# Publish output
+publish/
+wwwroot/
+
+# Configuration files
+appsettings*.json
