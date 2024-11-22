@@ -28,11 +28,6 @@ builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 builder.Services.AddSignalR();
-// builder.Services.AddSignalR().AddAzureSignalR(options => {
-//     options.Endpoints = [
-//         new ServiceEndpoint("Endpoint=https://scrummybears.service.signalr.net;AccessKey=VPe01lAa4h+9b4BqOyTH5L7D3dKz8mmMoResIv+tXYo=;Version=1.0;")
-//     ];
-// });
 //builder.Services.AddDbContext<ChatDbContext>(options => options.UseInMemoryDatabase("chat-application"));
 builder.Services.AddDbContext<ChatDbContext>(options => options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
 builder.Services.AddScoped<IUserRepository, UserRepository>();
