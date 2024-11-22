@@ -1,0 +1,150 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\BenAlexander\\Other\\InnovationDay\\ChatApplication\\backend\\ChatApplication\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6FEB0459-FC20-460D-BCD1-567A924BAF62}|ChatApplication\\Api.csproj|c:\\users\\benalexander\\other\\innovationday\\chatapplication\\backend\\chatapplication\\chatapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FEB0459-FC20-460D-BCD1-567A924BAF62}|ChatApplication\\Api.csproj|solutionrelative:chatapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FEB0459-FC20-460D-BCD1-567A924BAF62}|ChatApplication\\Api.csproj|c:\\users\\benalexander\\other\\innovationday\\chatapplication\\backend\\chatapplication\\chatapplication\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6FEB0459-FC20-460D-BCD1-567A924BAF62}|ChatApplication\\Api.csproj|solutionrelative:chatapplication\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD2D9F87-B443-452A-BC3A-F36F58DA8163}|Repository\\Repository.csproj|c:\\users\\benalexander\\other\\innovationday\\chatapplication\\backend\\chatapplication\\repository\\message\\messageetc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD2D9F87-B443-452A-BC3A-F36F58DA8163}|Repository\\Repository.csproj|solutionrelative:repository\\message\\messageetc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E91092D-D061-4A58-A73B-589DA9A0FB28}|Domain\\Domain.csproj|c:\\users\\benalexander\\other\\innovationday\\chatapplication\\backend\\chatapplication\\domain\\user\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E91092D-D061-4A58-A73B-589DA9A0FB28}|Domain\\Domain.csproj|solutionrelative:domain\\user\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E91092D-D061-4A58-A73B-589DA9A0FB28}|Domain\\Domain.csproj|c:\\users\\benalexander\\other\\innovationday\\chatapplication\\backend\\chatapplication\\domain\\message\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E91092D-D061-4A58-A73B-589DA9A0FB28}|Domain\\Domain.csproj|solutionrelative:domain\\message\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD2D9F87-B443-452A-BC3A-F36F58DA8163}|Repository\\Repository.csproj|c:\\users\\benalexander\\other\\innovationday\\chatapplication\\backend\\chatapplication\\repository\\message\\messagerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD2D9F87-B443-452A-BC3A-F36F58DA8163}|Repository\\Repository.csproj|solutionrelative:repository\\message\\messagerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD2D9F87-B443-452A-BC3A-F36F58DA8163}|Repository\\Repository.csproj|c:\\users\\benalexander\\other\\innovationday\\chatapplication\\backend\\chatapplication\\repository\\chatdbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD2D9F87-B443-452A-BC3A-F36F58DA8163}|Repository\\Repository.csproj|solutionrelative:repository\\chatdbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD2D9F87-B443-452A-BC3A-F36F58DA8163}|Repository\\Repository.csproj|c:\\users\\benalexander\\other\\innovationday\\chatapplication\\backend\\chatapplication\\repository\\chatdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD2D9F87-B443-452A-BC3A-F36F58DA8163}|Repository\\Repository.csproj|solutionrelative:repository\\chatdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 204,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\BenAlexander\\Other\\InnovationDay\\ChatApplication\\backend\\ChatApplication\\ChatApplication\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "ChatApplication\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\BenAlexander\\Other\\InnovationDay\\ChatApplication\\backend\\ChatApplication\\ChatApplication\\Properties\\launchSettings.json",
+              "RelativeToolTip": "ChatApplication\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-30T18:56:28.421Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\BenAlexander\\Other\\InnovationDay\\ChatApplication\\backend\\ChatApplication\\Domain\\User\\User.cs",
+              "RelativeDocumentMoniker": "Domain\\User\\User.cs",
+              "ToolTip": "C:\\Users\\BenAlexander\\Other\\InnovationDay\\ChatApplication\\backend\\ChatApplication\\Domain\\User\\User.cs",
+              "RelativeToolTip": "Domain\\User\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T14:57:42.422Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MessageRepository.cs",
+              "DocumentMoniker": "C:\\Users\\BenAlexander\\Other\\InnovationDay\\ChatApplication\\backend\\ChatApplication\\Repository\\Message\\MessageRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\Message\\MessageRepository.cs",
+              "ToolTip": "C:\\Users\\BenAlexander\\Other\\InnovationDay\\ChatApplication\\backend\\ChatApplication\\Repository\\Message\\MessageRepository.cs",
+              "RelativeToolTip": "Repository\\Message\\MessageRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T14:51:11.589Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Message.cs",
+              "DocumentMoniker": "C:\\Users\\BenAlexander\\Other\\InnovationDay\\ChatApplication\\backend\\ChatApplication\\Domain\\Message\\Message.cs",
+              "RelativeDocumentMoniker": "Domain\\Message\\Message.cs",
+              "ToolTip": "C:\\Users\\BenAlexander\\Other\\InnovationDay\\ChatApplication\\backend\\ChatApplication\\Domain\\Message\\Message.cs",
+              "RelativeToolTip": "Domain\\Message\\Message.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T14:44:27.977Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MessageETC.cs",
+              "DocumentMoniker": "C:\\Users\\BenAlexander\\Other\\InnovationDay\\ChatApplication\\backend\\ChatApplication\\Repository\\Message\\MessageETC.cs",
+              "RelativeDocumentMoniker": "Repository\\Message\\MessageETC.cs",
+              "ToolTip": "C:\\Users\\BenAlexander\\Other\\InnovationDay\\ChatApplication\\backend\\ChatApplication\\Repository\\Message\\MessageETC.cs",
+              "RelativeToolTip": "Repository\\Message\\MessageETC.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T14:32:31Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ChatDbContextFactory.cs",
+              "DocumentMoniker": "C:\\Users\\BenAlexander\\Other\\InnovationDay\\ChatApplication\\backend\\ChatApplication\\Repository\\ChatDbContextFactory.cs",
+              "RelativeDocumentMoniker": "Repository\\ChatDbContextFactory.cs",
+              "ToolTip": "C:\\Users\\BenAlexander\\Other\\InnovationDay\\ChatApplication\\backend\\ChatApplication\\Repository\\ChatDbContextFactory.cs",
+              "RelativeToolTip": "Repository\\ChatDbContextFactory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T14:30:08.859Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\BenAlexander\\Other\\InnovationDay\\ChatApplication\\backend\\ChatApplication\\ChatApplication\\Program.cs",
+              "RelativeDocumentMoniker": "ChatApplication\\Program.cs",
+              "ToolTip": "C:\\Users\\BenAlexander\\Other\\InnovationDay\\ChatApplication\\backend\\ChatApplication\\ChatApplication\\Program.cs*",
+              "RelativeToolTip": "ChatApplication\\Program.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T18:44:03.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ChatDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\BenAlexander\\Other\\InnovationDay\\ChatApplication\\backend\\ChatApplication\\Repository\\ChatDbContext.cs",
+              "RelativeDocumentMoniker": "Repository\\ChatDbContext.cs",
+              "ToolTip": "C:\\Users\\BenAlexander\\Other\\InnovationDay\\ChatApplication\\backend\\ChatApplication\\Repository\\ChatDbContext.cs",
+              "RelativeToolTip": "Repository\\ChatDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T19:46:29.844Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
